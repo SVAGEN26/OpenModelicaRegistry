@@ -11,3 +11,9 @@ git-tree-sha1 = "db21f2785bf36653a198827431bcb1bdd010bdbc"
 git-tree-sha1 = "045a4df8c32d9d3761715c6ca04e2771b237b7a7"
 ["0.4.1"] #Fixes to overconstrained connectors
 git-tree-sha1 = "ae479101c55ba47d3b35ee20c7ff722621962d35"
+
+["1.0.1"]
+git-tree-sha1 = "beb57701ae0c82ce47f3a6db178d11a75f4a4492"
+
+["1.1.0"]
+git-tree-sha1 = "4926dd6e3791efb65dc832876af1d409c375751f"
